@@ -3,4 +3,4 @@
 
 
 
-https://www.notion.so/Learnweb3io-Account-Abstraction-Course-c6ca52c205d1458f835d5a754fd4486f
+https://www.notion.so/Pr-ctica-AA-from-scratch-69a7ee0367c14631bdede6f7fd184895
